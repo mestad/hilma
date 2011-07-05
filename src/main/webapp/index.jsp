@@ -6,7 +6,8 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <script language="javascript" src="js/drawing.js"></script>
+        <script type="text/javascript" src="js/drawing.js"></script>
+        <script type="text/javascript" src="js/control.js"></script>
         <title>JSP Page</title>
     </head>
     <body onload="init()">
